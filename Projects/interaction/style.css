@@ -1,0 +1,45 @@
+a{
+text-decoration: none;
+color: grey;
+
+}
+
+
+
+.button {
+  position:fixed;
+  width:100px;
+  height:100px;
+  background: teal;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: background .5s ease,
+              height 1s ease;
+
+}
+.button:hover{
+  background:lightpink;
+  height: 900px;
+
+}
+
+.prev{
+  left: 0;
+}
+
+.next{
+right: 0; }
+
+
+.image{
+  display: none;
+
+}
+
+.hover-img:hover .image{
+  display: block;
+}
