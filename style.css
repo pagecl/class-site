@@ -1,0 +1,29 @@
+h1{
+  /* position: absolute; */
+  left:25%;
+  font-family: 'Inknut Antiqua', serif;
+  color: white;
+}
+
+ul {
+  padding:0;
+}
+
+li {
+  list-style: none;
+}
+
+.navigation{
+  position: fixed;
+  background: rgb(186, 138, 249);
+  width: 300px;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  padding-left: 10px;
+}
+
+.main {
+  background:rgb(193, 134, 125);
+  margin-left: 400px;
+}

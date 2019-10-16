@@ -1,0 +1,25 @@
+body {
+  background-color: tan;
+
+}
+
+p {
+  font-family: monospace;
+  padding-left:150px;
+  padding-right:450px;
+
+}
+h1 {font-size: 40px;
+  padding-left:50px;
+  color: white;
+
+}
+
+mark {
+  background: green;
+}
+
+img {
+  max-width: 80%;
+  center:
+}
