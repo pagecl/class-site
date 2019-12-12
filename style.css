@@ -1,19 +1,52 @@
 h1{
   /* position: absolute; */
-  left:25%;
+  padding-left: 30px;
+  font-size: 5vh;
+  left:100px;
   font-family: 'Inknut Antiqua', serif;
-  color: white;
+  color: rgb(34, 95, 115);
 }
 
-ul {
+p{
+  padding-left: 30px;
+}
+
+
+a{
+  font-size: 3vh;
+  font-family: 'Inknut Antiqua', serif;
+left: 25%;
+color:rgb(82, 137, 156);
+text-decoration: none;
+opacity: 20%;
+
+}
+
+a:hover{
+  opacity: 100%;
+  transition: 2s;
+  /* color:rgb(198, 229, 240); */
+  text-decoration:underline: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* ul {
   padding:0;
-}
+} */
 
-li {
+/* li {
   list-style: none;
-}
+} */
 
-.navigation{
+/* .navigation{
   position: fixed;
   background: rgb(186, 138, 249);
   width: 300px;
@@ -21,9 +54,9 @@ li {
   top: 0;
   left: 0;
   padding-left: 10px;
-}
+} */
 
-.main {
+/* .main {
   background:rgb(193, 134, 125);
   margin-left: 400px;
-}
+} */
