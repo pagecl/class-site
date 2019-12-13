@@ -1,0 +1,46 @@
+body{
+  background-color:rgb(153, 77, 75);
+  font-family: 'Raleway Dots', cursive;
+}
+
+
+a:hover{ color: darkblue;
+  text-align: center;
+}
+
+p{
+  /* font-family: 'Raleway Dots', cursive; */
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.article-title {
+display: flex;
+justify-content: center;
+align-items: center;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: White;
+  text-decoration: none;
+}
+
+.author {
+  padding-top: 10px;
+  margin:0;
+}
+
+.responses p {
+  transition: transform .2s ease;
+}
+
+.responses p:hover {
+  transform: rotate(5deg);
+}

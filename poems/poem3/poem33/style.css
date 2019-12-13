@@ -1,0 +1,27 @@
+/* padding
+margin
+border
+height, width
+position
+top, right, bottom, left
+display
+float
+color */
+
+body{
+  background-color: rgb(233, 233, 233);
+}
+p{
+  padding-left: 500px;
+  padding-right: 500px;
+  font-size: 10vh;
+
+}
+
+
+
+em{
+  font-size: 1vh;
+  color: rgba(21, 120, 138, 0.69);
+
+}

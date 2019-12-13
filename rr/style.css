@@ -1,0 +1,25 @@
+h1{
+  padding-left: 30px;
+font-size: 5vh;
+font-family: 'Inknut Antiqua', serif;
+color: rgb(34, 95, 115);
+text-decoration: none;
+}
+
+
+a{
+  font-size: 3vh;
+  font-family: 'Inknut Antiqua', serif;
+padding-left: 30px;
+color:rgb(82, 137, 156);
+text-decoration: none;
+opacity: 20%;
+
+}
+
+a:hover{
+  opacity: 100%;
+  transition: 2s;
+  /* color:rgb(198, 229, 240); */
+  text-decoration:underline: none;
+}

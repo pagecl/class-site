@@ -5,7 +5,7 @@ color: grey;
 }
 
 img {
-  max-width: 20%;
+  width:10px;
 }
 
 
@@ -22,6 +22,7 @@ img {
   transform: translateY(-50%);
   transition: background .5s ease,
               height 1s ease;
+
 
 }
 .button:hover{

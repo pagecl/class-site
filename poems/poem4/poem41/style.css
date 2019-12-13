@@ -1,0 +1,26 @@
+/* font-family
+font-weight
+font-size
+text-align
+line-height
+letter-spacing
+text-transform */
+
+body{
+  background-color: rgb(233, 233, 233);
+  font-family: 'Audiowide', cursive;
+}
+p{
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 600px;
+  font-size: 10vh;
+
+}
+a{
+  color: rgb(208, 208, 208);
+}
+
+small{
+  color: rgb(181, 181, 181);
+}

@@ -1,0 +1,27 @@
+/* padding
+margin
+border
+height, width
+position
+top, right, bottom, left
+display
+float
+color */
+p{
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+big{
+  justify-content: center;
+  font-size: 3vh;
+  color: rgba(232, 194, 5, 0.72);
+    border: dotted;
+    border-radius: 30px;
+}
+
+em{
+  font-size: 1vh;
+  color: rgb(21, 120, 138);
+
+}
